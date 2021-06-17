@@ -28,6 +28,7 @@ Using a Kmeans Clustering, the study was able to cluster the Los Angeles Neighbo
 
 ## 4). In what ways can Redditors f*ck up?:Clustering the Today I F*cked Up(TIFU) SubReddit Section
 ![image](https://user-images.githubusercontent.com/67006507/122420549-59aa4900-cfbe-11eb-99e9-bfae95dfe308.png)
+
 Reddit. com is coined as the "front page of the internet" which means that it is one of most popular and frequently visited website globally. Due to a lot of users, different topics and subreddit submission are being done everyday to the website. This in turn give the website a very wide array of topics to maintain. One popular subreddit is TIFU, which contains stories from different people commiting mistakes and acts of stupidity. This study aims to uncover the common mistakes people make based on the submissions under the TIFU subreddit. This was achieved by first extracting the topics/concepts of the submissions using Latent Semantic Analysis and afterwards, K-means clustering was done to group submissions with similar concepts/topics.
 
 Based from these, 12 distinct topics / themes under the TIFU subreddits were identified, with topics ranging from sexual to work themes to romantic themes.
