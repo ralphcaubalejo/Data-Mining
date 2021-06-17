@@ -1,7 +1,7 @@
 # Data Mining
 Technical Report on Data Mining, Webscraping, Google Analytics
 
-## Wowowiki: Creating a Wikipedia recommendation algorithm using a Semantic Network model
+## 1). Wowowiki: Creating a Wikipedia recommendation algorithm using a Semantic Network model
 ![image](https://user-images.githubusercontent.com/67006507/122386284-54d69c80-cfa0-11eb-9204-cbf48ddd0dd5.png)
 
 Wikipedia, a free online encyclopedia, is known to provide information of every topic imaginable. Its contents are provided via a peer-reviewed open collaboration. A quick google search of a certain topic will almost always return a Wikipedia link in the first page of results. However as much as this can be widely and easily accessed, this can also be edited and updated by basically anyone who has an internet connection. This means that the content of Wikipedia is ever growing, collecting different information and interpretations from people all around the world regardless of a person’s qualifications.
